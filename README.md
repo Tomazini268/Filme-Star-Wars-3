@@ -1,11 +1,3 @@
-🔹 Cabeçalho (<head>)
-
-Define o conjunto de caracteres como UTF-8.
-
-Define a largura da viewport para dispositivos móveis.
-
-Define o título da aba do navegador como:
-"Filme Star Wars 3: Vingança dos Sith".
 
 🔹 Corpo do conteúdo (<body>)
 
